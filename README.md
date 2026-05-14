@@ -1,4 +1,4 @@
-# Autonomous Drone Platform
+# ASTRA
 
 **A Python-based command-line system for controlling an autonomous drone using ArduPilot SITL, DroneKit, and MAVLink.**
 
